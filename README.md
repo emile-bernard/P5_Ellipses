@@ -1,4 +1,4 @@
-# P5-Ellipses
+# P5_Ellipses
 
 ## Description
 This project is a simple ellipse shape visualisation using P5.js.
